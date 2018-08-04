@@ -1,2 +1,7 @@
-﻿  WinMain.cpp
+﻿  Engine.cpp
+  Game.cpp
+  System.cpp
+  UObject.cpp
+  WinMain.cpp
+  Generating Code...
   GameEngine.vcxproj -> C:\Users\Leo\source\repos\GameEngine\Debug\GameEngine.exe
